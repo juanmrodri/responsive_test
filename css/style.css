@@ -71,6 +71,11 @@ div div{
     margin-left: auto;
 }
 
+iframe{
+    width: 70%;
+    height: 350px;
+}
+
 /* media queries*/
 
 @media screen and (max-width: 768px) {
